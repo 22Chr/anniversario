@@ -113,10 +113,10 @@ a {
 .overlay .closebtn {
     display: flex;
     align-items: center;
-    /* justify-content: center; */
+    justify-content: center;
     position: sticky; 
     top: 5px;
-    /* left: 400px; */
+    
     z-index: 1;
     right: 20px;
     font-size: 30px;
