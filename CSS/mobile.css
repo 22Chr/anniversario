@@ -110,16 +110,3 @@ a {
     transition: 0.3s;
 }
 
-.overlay .closebtn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: sticky; 
-    top: 5px;
-    
-    z-index: 1;
-    right: 20px;
-    font-size: 30px;
-    width: 40px;
-    background-color: #fff;
-}
