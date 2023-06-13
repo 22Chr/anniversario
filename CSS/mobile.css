@@ -1,0 +1,125 @@
+#Titolo {
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 2.3%;
+    margin: auto;
+    width: 90%;
+    border-radius: 15px;
+    font-size: 15px;
+    background: linear-gradient (135deg, Orgba(255, 255, 255, 0.1), Orgba(255, 255, 255, 0));
+    box-shadow: 0 8px 32px 10px gray;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+#Start {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 17px;
+}
+
+#Paragrafi {
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 2.3%;
+    margin: auto;
+    width: 90%;
+    border-radius: 15px;
+    font-size: 15px;
+    background: linear-gradient (135deg, Orgba(255, 255, 255, 0.1), Orgba(255, 255, 255, 0));
+    box-shadow: 0 8px 32px 10px gray;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+a {
+   background: linear-gradient (135deg, Orgba(255, 255, 255, 0.1), Orgba(255, 255, 255, 0));
+   box-shadow: 0 0px 50px 2px gray;
+   backdrop-filter: blur(10px);
+   -webkit-backdrop-filter: blur(10px);
+}
+
+#Link {
+   display: none;
+}
+
+.mobile_link {
+    width: 95%;
+    margin: auto;
+}
+
+.desktop_link {
+    display: none;
+}
+
+.mobile_text {
+    text-align: center;
+}
+
+.desktop_images {
+    display: none;
+}
+
+.mobile_images {
+    width: fit-content;
+    margin: auto;
+}
+
+img {
+    margin: 10px;
+}
+
+
+
+h1 {
+    font-size: 30px;
+}
+
+.desktop-box {
+    display: none;
+}
+
+a {
+    font-size: 12px;
+}
+
+#span-nav {
+    width: 100px;
+    height: 100px;
+    font-size: 5px;
+}
+
+.overlay-content {
+    position: relative;
+    top: 0;
+    left: 25px;
+    bottom: 100px;
+    width: 100%;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.overlay a {
+    padding: 10px auto;
+    width: 75%;
+    text-decoration: none;
+    font-size: 20px;
+    color: #6693E0;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay .closebtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky; 
+    top: 5px;
+    left: 420px;
+    z-index: 1;
+    right: 20px;
+    font-size: 30px;
+    width: 40px;
+    background-color: #fff;
+}
