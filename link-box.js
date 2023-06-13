@@ -8,4 +8,4 @@ function openNav() {
 function closeNav() {
     document.getElementById("myNav").style.width = "0%";
 }
-var x = window.matchMedia("(max-width: 500px)")    
+var x = window.matchMedia("(max-width: 1000px)")    
