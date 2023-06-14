@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, pink, lightgray, white, lightblue, #6BEDAA);
+    background-image: linear-gradient(to right, pink, lightgray, white, lightblue, rgb(107, 237, 170));
 }
 
 #Titolo {
