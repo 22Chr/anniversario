@@ -125,3 +125,7 @@ h1 {
     width: 40px;
     background-color: #fff;
 }
+
+p {
+    line-height: 30px;
+}
