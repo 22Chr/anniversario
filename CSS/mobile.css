@@ -70,8 +70,6 @@ img {
     margin: 10px;
 }
 
-
-
 h1 {
     font-size: 80px;
 }
@@ -81,7 +79,7 @@ h1 {
 }
 
 a {
-    font-size: 17px;
+    font-size: 40px;
 }
 
 #span-nav {
@@ -104,7 +102,7 @@ a {
     padding: 10px auto;
     width: 75%;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 40px;
     color: #6693E0;
     display: block;
     transition: 0.3s;
@@ -126,4 +124,12 @@ a {
 
 p {
     line-height: 80px;
+}
+
+#Titolo {
+    line-height: 50px;
+}
+
+.titolo_lungo {
+    line-height: 70px;
 }
