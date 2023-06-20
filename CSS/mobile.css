@@ -45,8 +45,8 @@ a {
 }
 
 .mobile_link {
-    width: 95%;
-    margin: auto;
+    width: 75%;
+    /* margin: auto; */
     padding: 10px 15px;
 }
 
