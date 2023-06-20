@@ -6,7 +6,7 @@
     width: 90%;
     border-radius: 15px;
     font-size: 15px;
-    line-height: 180px;
+    line-height: 200px;
     background: linear-gradient (135deg, Orgba(255, 255, 255, 0.1), Orgba(255, 255, 255, 0));
     box-shadow: 0 8px 32px 10px gray;
     backdrop-filter: blur(10px);
@@ -15,7 +15,7 @@
 
 #Start {
     font-size: 130px;
-    line-height: 80px;
+    line-height: 100px;
 }
 
 h3 {
