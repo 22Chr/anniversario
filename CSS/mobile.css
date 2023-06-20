@@ -6,7 +6,7 @@
     width: 90%;
     border-radius: 15px;
     font-size: 15px;
-    line-height: 100px;
+    line-height: 150px;
     background: linear-gradient (135deg, Orgba(255, 255, 255, 0.1), Orgba(255, 255, 255, 0));
     box-shadow: 0 8px 32px 10px gray;
     backdrop-filter: blur(10px);
@@ -14,7 +14,7 @@
 }
 
 #Start {
-    font-size: 95px;
+    font-size: 130px;
 }
 
 h3 {
@@ -75,7 +75,7 @@ img {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 100px;
 }
 
 .desktop-box {
