@@ -20,7 +20,7 @@
 
 h3 {
     font-size: 60px;
-    line-height: 60px;
+    line-height: 70px;
 }
 
 #Paragrafi {
@@ -77,7 +77,7 @@ img {
 
 h1 {
     font-size: 100px;
-    line-height: 95px;
+    line-height: 120px;
 }
 
 #buon_anniversario {
@@ -142,4 +142,8 @@ p {
 
 .titolo_lungo {
     line-height: 70px;
+}
+
+h2 {
+    font-size: 85px;
 }
