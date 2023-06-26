@@ -72,7 +72,7 @@ img {
 }
 
 img:hover {
-    box-shadow: 0 0px 10px 10px #fff;
+    box-shadow: 0 0px 10px 10px pink;
 }
 
 h1 {
