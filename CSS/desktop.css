@@ -90,6 +90,7 @@ h1 {
 #span-nav {
     width: 50px;
     font-size: 15px;
+    border-radius: 15px;
 }
 
 .overlay-content {
