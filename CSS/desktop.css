@@ -72,7 +72,7 @@ img {
 }
 
 img:hover {
-    box-shadow: 0 0px 10px 10px blueviolet;
+    box-shadow: 0 0px 10px 10px linear-gradient (to right white, lightblue, lightcyan, whitesmoke);
 }
 
 h1 {
