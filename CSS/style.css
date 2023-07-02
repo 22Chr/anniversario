@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, pink, lightgray, white, lightblue, rgb(221, 183, 249));
+    background-image: linear-gradient(to bottom, pink, lightgray, white, lightblue, rgb(221, 183, 249));
 }
 
 p {
@@ -59,7 +59,7 @@ img {
     z-index: 1;
     top: 0;
     left: 0;
-    background-image: linear-gradient(to right, lightgray, white);
+    background-image: linear-gradient(to right, lightblue, white);
     overflow-x: hidden;
     transition: 0.5s;
 }
