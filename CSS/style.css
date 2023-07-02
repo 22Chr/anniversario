@@ -22,6 +22,7 @@ a {
    padding: 10px;
    margin: 50px 10px;
    border-radius: 50px;
+   background: rgba(255, 255, 255, 0.5);
 }
 
 a:visited {
@@ -31,7 +32,7 @@ a:visited {
 img {
     border-radius: 20px;
     background: linear-gradient (135deg, Orgba(255, 255, 255, 0.1), Orgba(255, 255, 255, 0));
-    box-shadow: 0 0px 10px 10px whitesmoke;
+    box-shadow: 0 0px 10px 10px #e4e9f2;
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
 }
@@ -59,7 +60,7 @@ img {
     z-index: 1;
     top: 0;
     left: 0;
-    background-image: linear-gradient(to right, white, whitesmoke);
+    background-image: linear-gradient(to bottom right, pink, whitesmoke, lightblue, rgba(221, 183, 249, 0.999));
     overflow-x: hidden;
     transition: 0.5s;
 }
@@ -70,3 +71,4 @@ img {
     color: blueviolet;
 }
   
+
