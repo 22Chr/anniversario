@@ -59,7 +59,7 @@ img {
     z-index: 1;
     top: 0;
     left: 0;
-    background-image: rgba(255, 255, 255, 0.98);
+    background-image: linear-gradient(to bottom, pink, lightgray, lightblue, rgb(221, 183, 249));
     overflow-x: hidden;
     transition: 0.5s;
 }
