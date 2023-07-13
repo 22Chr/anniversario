@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: linear-gradient(to top left, pink, lightgray, lightblue, rgb(221, 183, 249));
+    background: linear-gradient(to top left, pink, lightgray, lightblue, rgb(221, 183, 249));
 }
 
 p {
